@@ -44,5 +44,5 @@ WeRateDogs Twitter page experiences its lowest interactions in November and Dece
 
 Your Name - [@DavidOkpare](https://twitter.com/DavidOkpare) - okparedave@gmail.com
 
-Project Link: [https://github.com/DaveOkpare/european-soccer-analysis/](https://github.com/DaveOkpare/european-soccer-analysis/)
+Project Link: [https://github.com/DaveOkpare/WeRateDogs](https://github.com/DaveOkpare/WeRateDogs)
 
